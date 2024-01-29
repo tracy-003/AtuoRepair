@@ -1,0 +1,60 @@
+Žš‹å,Žš‹å‚ÌƒNƒ‰ƒX
+System , <class 'ast_Java.Java8Parser.Java8Parser.AmbiguousNameContext'>
+"{Scannersc=newScanner(System.in);inty=sc.nextInt();if(y%400==0)System.out.println(""YES"");elseif(y%100==0)System.out.println(""NO"");elseif(y%4==0)System.out.println(""YES"");} ", <class 'ast_Java.Java8Parser.Java8Parser.BlockContext'>
+"{Scannersc=newScanner(System.in);inty=sc.nextInt();if(y%400==0)System.out.println(""YES"");elseif(y%100==0)System.out.println(""NO"");elseif(y%4==0)System.out.println(""YES"");} ", <class 'ast_Java.Java8Parser.Java8Parser.BlockContext'>
+newScanner(System.in) , <class 'ast_Java.Java8Parser.Java8Parser.ClassInstanceCreationExpression_lfno_primaryContext'>
+newScanner(System.in) , <class 'ast_Java.Java8Parser.Java8Parser.ClassInstanceCreationExpression_lfno_primaryContext'>
+[] , <class 'ast_Java.Java8Parser.Java8Parser.DimsContext'>
+y%400==0 , <class 'ast_Java.Java8Parser.Java8Parser.EqualityExpressionContext'>
+y%100==0 , <class 'ast_Java.Java8Parser.Java8Parser.EqualityExpressionContext'>
+y%4==0 , <class 'ast_Java.Java8Parser.Java8Parser.EqualityExpressionContext'>
+System.in , <class 'ast_Java.Java8Parser.Java8Parser.ExpressionNameContext'>
+y , <class 'ast_Java.Java8Parser.Java8Parser.ExpressionNameContext'>
+y , <class 'ast_Java.Java8Parser.Java8Parser.ExpressionNameContext'>
+y , <class 'ast_Java.Java8Parser.Java8Parser.ExpressionNameContext'>
+"System.out.println(""NO""); ", <class 'ast_Java.Java8Parser.Java8Parser.ExpressionStatementContext'>
+"if(y%400==0)System.out.println(""YES"");elseif(y%100==0)System.out.println(""NO"");elseif(y%4==0)System.out.println(""YES""); ", <class 'ast_Java.Java8Parser.Java8Parser.IfThenElseStatementContext'>
+"if(y%400==0)System.out.println(""YES"");elseif(y%100==0)System.out.println(""NO"");elseif(y%4==0)System.out.println(""YES""); ", <class 'ast_Java.Java8Parser.Java8Parser.IfThenElseStatementContext'>
+"if(y%400==0)System.out.println(""YES"");elseif(y%100==0)System.out.println(""NO"");elseif(y%4==0)System.out.println(""YES""); ", <class 'ast_Java.Java8Parser.Java8Parser.IfThenElseStatementContext'>
+"if(y%100==0)System.out.println(""NO"");elseif(y%4==0)System.out.println(""YES""); ", <class 'ast_Java.Java8Parser.Java8Parser.IfThenElseStatementContext'>
+"if(y%100==0)System.out.println(""NO"");elseif(y%4==0)System.out.println(""YES""); ", <class 'ast_Java.Java8Parser.Java8Parser.IfThenElseStatementContext'>      
+"if(y%4==0)System.out.println(""YES""); ", <class 'ast_Java.Java8Parser.Java8Parser.IfThenStatementContext'>
+"if(y%4==0)System.out.println(""YES""); ", <class 'ast_Java.Java8Parser.Java8Parser.IfThenStatementContext'>
+int , <class 'ast_Java.Java8Parser.Java8Parser.IntegralTypeContext'>
+400, <class 'ast_Java.Java8Parser.Java8Parser.LiteralContext'>
+0, <class 'ast_Java.Java8Parser.Java8Parser.LiteralContext'>
+YES , <class 'ast_Java.Java8Parser.Java8Parser.LiteralContext'>
+100, <class 'ast_Java.Java8Parser.Java8Parser.LiteralContext'>
+0, <class 'ast_Java.Java8Parser.Java8Parser.LiteralContext'>
+NO , <class 'ast_Java.Java8Parser.Java8Parser.LiteralContext'>
+4, <class 'ast_Java.Java8Parser.Java8Parser.LiteralContext'>
+0, <class 'ast_Java.Java8Parser.Java8Parser.LiteralContext'>
+YES , <class 'ast_Java.Java8Parser.Java8Parser.LiteralContext'>
+Scannersc=newScanner(System.in); , <class 'ast_Java.Java8Parser.Java8Parser.LocalVariableDeclarationStatementContext'>
+inty=sc.nextInt(); , <class 'ast_Java.Java8Parser.Java8Parser.LocalVariableDeclarationStatementContext'>
+main(Stringargs[]) , <class 'ast_Java.Java8Parser.Java8Parser.MethodDeclaratorContext'>
+main(Stringargs[]) , <class 'ast_Java.Java8Parser.Java8Parser.MethodDeclaratorContext'>
+sc.nextInt() , <class 'ast_Java.Java8Parser.Java8Parser.MethodInvocation_lfno_primaryContext'>
+"System.out.println(""YES"") ", <class 'ast_Java.Java8Parser.Java8Parser.MethodInvocationContext'>
+"System.out.println(""NO"") ", <class 'ast_Java.Java8Parser.Java8Parser.MethodInvocationContext'>
+"System.out.println(""YES"") ", <class 'ast_Java.Java8Parser.Java8Parser.MethodInvocationContext'>
+public , <class 'ast_Java.Java8Parser.Java8Parser.MethodModifierContext'>
+static , <class 'ast_Java.Java8Parser.Java8Parser.MethodModifierContext'>
+y%400 , <class 'ast_Java.Java8Parser.Java8Parser.MultiplicativeExpressionContext'>
+y%100 , <class 'ast_Java.Java8Parser.Java8Parser.MultiplicativeExpressionContext'>
+y%4 , <class 'ast_Java.Java8Parser.Java8Parser.MultiplicativeExpressionContext'>
+System , <class 'ast_Java.Java8Parser.Java8Parser.PackageOrTypeNameContext'>
+System , <class 'ast_Java.Java8Parser.Java8Parser.PackageOrTypeNameContext'>
+System , <class 'ast_Java.Java8Parser.Java8Parser.PackageOrTypeNameContext'>
+void , <class 'ast_Java.Java8Parser.Java8Parser.ResultContext'>
+sc , <class 'ast_Java.Java8Parser.Java8Parser.TypeNameContext'>
+System.out , <class 'ast_Java.Java8Parser.Java8Parser.TypeNameContext'>
+System.out , <class 'ast_Java.Java8Parser.Java8Parser.TypeNameContext'>
+System.out , <class 'ast_Java.Java8Parser.Java8Parser.TypeNameContext'>
+String , <class 'ast_Java.Java8Parser.Java8Parser.UnannClassType_lfno_unannClassOrInterfaceTypeContext'>
+Scanner , <class 'ast_Java.Java8Parser.Java8Parser.UnannClassType_lfno_unannClassOrInterfaceTypeContext'>
+sc=newScanner(System.in) , <class 'ast_Java.Java8Parser.Java8Parser.VariableDeclaratorContext'>
+y=sc.nextInt() , <class 'ast_Java.Java8Parser.Java8Parser.VariableDeclaratorContext'>
+args[] , <class 'ast_Java.Java8Parser.Java8Parser.VariableDeclaratorIdContext'>
+sc , <class 'ast_Java.Java8Parser.Java8Parser.VariableDeclaratorIdContext'>
+y , <class 'ast_Java.Java8Parser.Java8Parser.VariableDeclaratorIdContext'>

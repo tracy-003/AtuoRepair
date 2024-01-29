@@ -1,0 +1,16 @@
+{
+  "target_code" : "uruPyWA//WA010.py",
+  "output_code" : "out_Result/20230116/out_testPy00.py",
+  "external_codes" : ["uruPyAC/AC040.py", "uruPyAC/AC132.py", "uruPyAC/AC025.py"],
+  "test_p_num" : 0,
+  "test_n_num" : 4,
+  "test_p_case" : [],
+  "test_n_case" : [[2000, "YES"], [2001, "NO"], [2004, "YES"], [2100, "NO"]],
+  "test_p_score" : 1,
+  "test_n_score" : 10,
+  "max_gen":1000,
+  "csv_path": "C:/Users/user/study/Record3.csv",
+  "memo": "",
+  "times": 1,
+  "sel_num": 20
+}

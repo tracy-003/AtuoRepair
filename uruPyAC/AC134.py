@@ -1,0 +1,1 @@
+y=int(input());print('NO'[:y*~(y%25and 3)&13]or'YES')

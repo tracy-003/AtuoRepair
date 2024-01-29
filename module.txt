@@ -1,0 +1,21 @@
+###### Requirements without Version Specifiers ######`
+chardet
+
+###### Requirements with Version Specifiers ######`
+astunparse == 1.6.3
+anytree == 2.12.1
+
+#### note
+## astunparse 1.6.3
+## https://pypi.org/project/astunparse/
+## anytree 2.12.1
+## https://pypi.org/project/anytree/
+## chardet
+## https://pypi.org/project/chardet/
+
+## Python 3.11.7
+## pip install astunparse
+## pip install anytree
+## pip install chardet
+
+## conda create -n APR python=3.11 astunparse=1.6 anytree=2.12 chardet
